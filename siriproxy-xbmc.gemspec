@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name        = "siriproxy-xbmc"
   s.version     = "0.0.1" 
   s.authors     = ["wr1472"]
-  s.email       = [""]
+  s.email       = ["wadud.ruf@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{An XBMC Siri Proxy Plugin}
   s.description = %q{This is a "hello world" style plugin. It simply intercepts the phrase "text siri proxy" and responds with a message about the proxy being up and running. This is good base code for other plugins. }
